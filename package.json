@@ -1,0 +1,26 @@
+{
+  "name": "IndexedDb",
+  "version": "0.0.0",
+  "description": "IndexDb wrapper",
+  "main": "src/IndexedDb.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toastman/IndexedDb.git"
+  },
+  "author": "Andriy Vandakurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toastman/IndexedDb/issues"
+  },
+  "homepage": "https://github.com/toastman/IndexedDb",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-uglifyjs": "^0.4.2"
+  }
+}
